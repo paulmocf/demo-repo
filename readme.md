@@ -7,4 +7,5 @@
  
 ##Local Development
 
-1. Open index.html  g
+1. Open index.html  
+2. Do other stuff
